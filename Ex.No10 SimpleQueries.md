@@ -11,6 +11,8 @@ To write a prolog program to find the answer of query.
  Step 5:  Pass the query to program. <br> 
  Step 6: Prolog interpreter shows the output and return answer. <br> 
  Step 8:  Stop the program.
+
+
 ### Program:
 
 
