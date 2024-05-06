@@ -83,8 +83,5 @@ Problem :
 ```
 ### Output/Plan:
 ![image](https://github.com/JeromeAntoRezin20/AI_Lab_2023-24/assets/160305423/ecd143e7-8b4c-4ab9-8646-8bac6a02401f)
-
-
-
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
