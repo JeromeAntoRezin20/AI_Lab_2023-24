@@ -38,13 +38,8 @@ problem(missing_dots).
 problem(spread_ink).
 problem(two_short_beeps).
 problem(blank_display).
-
 ```
-
 ### Output:
-
 ![image](https://github.com/JeromeAntoRezin20/AI_Lab_2023-24/assets/160305423/721b9884-1a12-48b5-b72f-a742bd444f15)
-
-
 ### Result:
 Thus the simple omputer maintenance expert system was built sucessfully.
