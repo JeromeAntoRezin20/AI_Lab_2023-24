@@ -1,6 +1,7 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
 ### DATE: 06/05/2024
 ### REGISTER NUMBER : 212221060103
+
 ### AIM: 
 To write a program to train the classifier for diabetes accuracy analysis model.
 ###  Algorithm:
@@ -14,7 +15,6 @@ Step 7- Deploy the model for real world predictions.
 ### Program:
 ```
 # prompt: diabetes model 
-
 # Import necessary libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
