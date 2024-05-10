@@ -2,7 +2,7 @@
 ### DATE: 23/03/2024                                                                           
 ### REGISTER NUMBER :212221060103 
 ### AIM: 
-To  write  a logic program for finding the factorial of given number using SWI-PROLOG. 
+To  write  a logic program for finding the factorial of given number using SWI-PROLOG.  
 ### Algorithm:
 1. STEP 1: Start the program
 2. STEP 2:  Write a rules for finding factorial of given program in SWI-PROLOG.
