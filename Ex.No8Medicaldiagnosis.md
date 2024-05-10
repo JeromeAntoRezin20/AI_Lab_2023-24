@@ -49,7 +49,7 @@ symptom(raju,sore_throat).
 
 
 
-
+ 
 
 
 
